@@ -1,6 +1,6 @@
 # Benedict
 
-Build a library where people and AI agents can find an earlier decision, read its source, and leave a record for the next person. You run the library with your own project materials.
+Build your own library for AI agents and personas. Using your project materials, each agent or persona can look up an earlier decision, check its source, and leave its reasoning for the next session.
 
 **Try a handoff.** In the [sample library](https://github.com/benedict-library/benedict#try-the-sample), one session reads a return policy and files an answer. A fresh session can find that answer and follow it back to the original policy.
 
